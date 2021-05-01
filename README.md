@@ -24,6 +24,10 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+#### Video Guide
+![Video Part 1](https://youtu.be/dOsfHHzpEsQ)
+![Video Part 2](https://youtu.be/0exFCJG0a5Y)
+
 #### License
 MIT
 
