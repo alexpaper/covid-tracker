@@ -7,6 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## 📚 Stack
 * [ReactJs](https://reactjs.org/)
 
+### API
+[Covid19 API](https://covid19api.com/)
 ## Available Scripts
 
 To start the project, after the download, open a terminal in the main directory and run:
