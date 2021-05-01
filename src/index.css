@@ -110,6 +110,7 @@ main::before {
 }
 
 .card-container h2.card-title {
+    padding: 1px;
     color: var(--secondary);
     text-align: center;
     line-height: 1;
@@ -121,7 +122,7 @@ main::before {
     margin-top: 10px;
     display: grid;
     grid-template: "1fr 1fr" 10% "1fr 1fr" 10% "1fr 1fr" 10% "1fr 1fr" 10% "1fr 1fr" 10% "1fr 1fr" 10% "1fr 1fr" 10% "1fr 1fr" 10% "1fr 1fr" 10%;
-    grid-gap: 4px;
+    grid-gap: 1px;
     width: 100%;
     justify-content: center;
     align-items: center;
