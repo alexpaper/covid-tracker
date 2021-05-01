@@ -10,7 +10,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     background: linear-gradient(45deg, var(--primary), var(--dark));
-    font-size: calc(10px + 2vmin);
+    font-size: calc(10px + 1.3vmin);
     color: #fff;
 }
 
@@ -130,7 +130,7 @@ main::before {
 
 .card-container .card-grid div {
     padding: 5px;
-    font-size: 1.1rem;
+    font-size: 1.01rem;
     font-weight: bold;
     transition: .3s;
 }
